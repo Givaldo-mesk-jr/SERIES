@@ -2,7 +2,8 @@
 
 #EXTINF:-1 tvg-id="AfricanewsEnglish.fr",group-title="NOTICIA", Africanews
 https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="BloombergQuicktake.us",Bloomberg Quicktake (1080p)
+
+#EXTINF:-1 tvg-id="BloombergQuicktake.us",group-title="NOTICIA"Bloomberg Quicktake (1080p)
 https://bloomberg-quicktake-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BloombergTV.us",group-title="NOTICIA",Bloomberg TV US (1080p)
