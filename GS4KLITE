@@ -1,111 +1,78 @@
-
 #EXTM3U url-tvg="http://grade-de-programacao.xml"
 
-############## MUSICAS  #################  
-#EXTINF:-1 tvg-id="iddocanaldemusica" group-title="Música" tvg-name="Nome oficial do canal de música" tvg-logo="http://logo-do-canal-de-esportes.jpg",Nome do canal de música na playlist
+############## 🇧🇷 ABERTOS #################  
+#EXTINF:-1 tvg-id="iddocanaldemusica" group-title="🇧🇷 ABERTOS" tvg-name="Nome oficial do canal de música" tvg-logo="http://logo-do-canal-de-esportes.jpg",Nome do canal de música na playlist
 http://transmissao-do-canal-de-musica.m3u8
 
-#EXTINF:-1 tvg-id="iddocanaldemusica" group-title="Música" tvg-name="Nome oficial do canal de música" tvg-logo="http://logo-do-canal-de-esportes.jpg",Nome do canal de música na playlist
+#EXTINF:-1 tvg-id="iddocanaldemusica" group-title="🇧🇷 ABERTOS" tvg-name="Nome oficial do canal de música" tvg-logo="http://logo-do-canal-de-esportes.jpg",Nome do canal de música na playlist
 http://transmissao-do-canal-de-musica.m3u8
 
-#EXTINF:-1 tvg-id="iddocanaldemusica" group-title="Música" tvg-name="Nome oficial do canal de música" tvg-logo="http://logo-do-canal-de-esportes.jpg",Nome do canal de música na playlist
+#EXTINF:-1 tvg-id="iddocanaldemusica" group-title="🇧🇷 ABERTOS" tvg-name="Nome oficial do canal de música" tvg-logo="http://logo-do-canal-de-esportes.jpg",Nome do canal de música na playlist
 http://transmissao-do-canal-de-musica.m3u8
 
-#EXTINF:-1 tvg-id="iddocanaldemusica" group-title="Música" tvg-name="Nome oficial do canal de música" tvg-logo="http://logo-do-canal-de-esportes.jpg",Nome do canal de música na playlist
-http://transmissao-do-canal-de-musica.m3u8
-
-#EXTINF:-1 tvg-id="iddocanaldemusica" group-title="Música" tvg-name="Nome oficial do canal de música" tvg-logo="http://logo-do-canal-de-esportes.jpg",Nome do canal de música na playlist
-http://transmissao-do-canal-de-musica.m3u8
-
-#EXTINF:-1 tvg-id="iddocanaldemusica" group-title="Música" tvg-name="Nome oficial do canal de música" tvg-logo="http://logo-do-canal-de-esportes.jpg",Nome do canal de música na playlist
-http://transmissao-do-canal-de-musica.m3u8
-
-#EXTINF:-1 tvg-id="iddocanaldemusica" group-title="Música" tvg-name="Nome oficial do canal de música" tvg-logo="http://logo-do-canal-de-esportes.jpg",Nome do canal de música na playlist
-http://transmissao-do-canal-de-musica.m3u8
-
-#EXTINF:-1 tvg-id="iddocanaldemusica" group-title="Música" tvg-name="Nome oficial do canal de música" tvg-logo="http://logo-do-canal-de-esportes.jpg",Nome do canal de música na playlist
-http://transmissao-do-canal-de-musica.m3u8
-
-#EXTINF:-1 tvg-id="iddocanaldemusica" group-title="Música" tvg-name="Nome oficial do canal de música" tvg-logo="http://logo-do-canal-de-esportes.jpg",Nome do canal de música na playlist
-http://transmissao-do-canal-de-musica.m3u8
-
-#EXTINF:-1 tvg-id="iddocanaldemusica" group-title="Música" tvg-name="Nome oficial do canal de música" tvg-logo="http://logo-do-canal-de-esportes.jpg",Nome do canal de música na playlist
+#EXTINF:-1 tvg-id="iddocanaldemusica" group-title="🇧🇷 ABERTOS" tvg-name="Nome oficial do canal de música" tvg-logo="http://logo-do-canal-de-esportes.jpg",Nome do canal de música na playlist
 http://transmissao-do-canal-de-musica.m3u8
 
 
+#EXTINF:-1 tvg-id="iddocanaldemusica" group-title="🇧🇷 ABERTOS" tvg-name="Nome oficial do canal de música" tvg-logo="http://logo-do-canal-de-esportes.jpg",Nome do canal de música na playlist
+http://transmissao-do-canal-de-musica.m3u8
+
+#EXTINF:-1 tvg-id="iddocanaldemusica" group-title="🇧🇷 ABERTOS" tvg-name="Nome oficial do canal de música" tvg-logo="http://logo-do-canal-de-esportes.jpg",Nome do canal de música na playlist
+http://transmissao-do-canal-de-musica.m3u8
+
+#EXTINF:-1 tvg-id="iddocanaldemusica" group-title="🇧🇷 ABERTOS" tvg-name="Nome oficial do canal de música" tvg-logo="http://logo-do-canal-de-esportes.jpg",Nome do canal de música na playlist
+http://transmissao-do-canal-de-musica.m3u8
+
+#EXTINF:-1 tvg-id="iddocanaldemusica" group-title="🇧🇷 ABERTOS" tvg-name="Nome oficial do canal de música" tvg-logo="http://logo-do-canal-de-esportes.jpg",Nome do canal de música na playlist
+http://transmissao-do-canal-de-musica.m3u8
+
+#EXTINF:-1 tvg-id="iddocanaldemusica" group-title="🇧🇷 ABERTOS" tvg-name="Nome oficial do canal de música" tvg-logo="http://logo-do-canal-de-esportes.jpg",Nome do canal de música na playlist
+http://transmissao-do-canal-de-musica.m3u8
+
+
+#EXTINF:-1 tvg-id="iddocanaldemusica" group-title="🇧🇷 ABERTOS" tvg-name="Nome oficial do canal de música" tvg-logo="http://logo-do-canal-de-esportes.jpg",Nome do canal de música na playlist
+http://transmissao-do-canal-de-musica.m3u8
+
+#EXTINF:-1 tvg-id="iddocanaldemusica" group-title="🇧🇷 ABERTOS" tvg-name="Nome oficial do canal de música" tvg-logo="http://logo-do-canal-de-esportes.jpg",Nome do canal de música na playlist
+http://transmissao-do-canal-de-musica.m3u8
+
+#EXTINF:-1 tvg-id="iddocanaldemusica" group-title="🇧🇷 ABERTOS" tvg-name="Nome oficial do canal de música" tvg-logo="http://logo-do-canal-de-esportes.jpg",Nome do canal de música na playlist
+http://transmissao-do-canal-de-musica.m3u8
+
+#EXTINF:-1 tvg-id="iddocanaldemusica" group-title="🇧🇷 ABERTOS" tvg-name="Nome oficial do canal de música" tvg-logo="http://logo-do-canal-de-esportes.jpg",Nome do canal de música na playlist
+http://transmissao-do-canal-de-musica.m3u8
+
+#EXTINF:-1 tvg-id="iddocanaldemusica" group-title="🇧🇷 ABERTOS" tvg-name="Nome oficial do canal de música" tvg-logo="http://logo-do-canal-de-esportes.jpg",Nome do canal de música na playlist
+http://transmissao-do-canal-de-musica.m3u8
+
+
+#EXTINF:-1 tvg-id="iddocanaldemusica" group-title="🇧🇷 ABERTOS" tvg-name="Nome oficial do canal de música" tvg-logo="http://logo-do-canal-de-esportes.jpg",Nome do canal de música na playlist
+http://transmissao-do-canal-de-musica.m3u8
 
 
 
-############## ESPORTES #################
+############## esportes #################
 #EXTINF:-1 tvg-id="iddocanaldeesportes" group-title="Esportes" tvg-name="Nome oficial do canal de esportes" tvg-logo="http://logo-do-canal-de-esportes.png",Nome do canal de esportes na playlist
 http://transmissao-do-canal-de-esportes.m3u8
 
+############## culinária #################
+#EXTINF:-1 tvg-id="iddocanaldeculinaria" group-title="Culinária" tvg-name="Nome oficial do canal de culinária" tvg-logo="http://logo-do-canal-de-culinaria.jpg",Nome do canal de culinária na sua playlist
+http://transmissao-do-canal-de-culinaria.ts
+
+############## esportes #################
 #EXTINF:-1 tvg-id="iddocanaldeesportes" group-title="Esportes" tvg-name="Nome oficial do canal de esportes" tvg-logo="http://logo-do-canal-de-esportes.png",Nome do canal de esportes na playlist
 http://transmissao-do-canal-de-esportes.m3u8
 
+############## culinária #################
+#EXTINF:-1 tvg-id="iddocanaldeculinaria" group-title="Culinária" tvg-name="Nome oficial do canal de culinária" tvg-logo="http://logo-do-canal-de-culinaria.jpg",Nome do canal de culinária na sua playlist
+http://transmissao-do-canal-de-culinaria.ts
+
+############## esportes #################
 #EXTINF:-1 tvg-id="iddocanaldeesportes" group-title="Esportes" tvg-name="Nome oficial do canal de esportes" tvg-logo="http://logo-do-canal-de-esportes.png",Nome do canal de esportes na playlist
 http://transmissao-do-canal-de-esportes.m3u8
 
-#EXTINF:-1 tvg-id="iddocanaldeesportes" group-title="Esportes" tvg-name="Nome oficial do canal de esportes" tvg-logo="http://logo-do-canal-de-esportes.png",Nome do canal de esportes na playlist
-http://transmissao-do-canal-de-esportes.m3u8
-
-#EXTINF:-1 tvg-id="iddocanaldeesportes" group-title="Esportes" tvg-name="Nome oficial do canal de esportes" tvg-logo="http://logo-do-canal-de-esportes.png",Nome do canal de esportes na playlist
-http://transmissao-do-canal-de-esportes.m3u8
-
-#EXTINF:-1 tvg-id="iddocanaldeesportes" group-title="Esportes" tvg-name="Nome oficial do canal de esportes" tvg-logo="http://logo-do-canal-de-esportes.png",Nome do canal de esportes na playlist
-http://transmissao-do-canal-de-esportes.m3u8
-
-#EXTINF:-1 tvg-id="iddocanaldeesportes" group-title="Esportes" tvg-name="Nome oficial do canal de esportes" tvg-logo="http://logo-do-canal-de-esportes.png",Nome do canal de esportes na playlist
-http://transmissao-do-canal-de-esportes.m3u8
-
-#EXTINF:-1 tvg-id="iddocanaldeesportes" group-title="Esportes" tvg-name="Nome oficial do canal de esportes" tvg-logo="http://logo-do-canal-de-esportes.png",Nome do canal de esportes na playlist
-http://transmissao-do-canal-de-esportes.m3u8
-
-#EXTINF:-1 tvg-id="iddocanaldeesportes" group-title="Esportes" tvg-name="Nome oficial do canal de esportes" tvg-logo="http://logo-do-canal-de-esportes.png",Nome do canal de esportes na playlist
-http://transmissao-do-canal-de-esportes.m3u8
-
-#EXTINF:-1 tvg-id="iddocanaldeesportes" group-title="Esportes" tvg-name="Nome oficial do canal de esportes" tvg-logo="http://logo-do-canal-de-esportes.png",Nome do canal de esportes na playlist
-http://transmissao-do-canal-de-esportes.m3u8
-
-
-
-
-
-############## NOTICIAS #################
-#EXTINF:-1 tvg-id="iddocanaldeculinaria" group-title="NOTICIA" tvg-name="Nome oficial do canal de culinária" tvg-logo="http://logo-do-canal-de-culinaria.jpg",Nome do canal de culinária na sua playlist
+############## culinária #################
+#EXTINF:-1 tvg-id="iddocanaldeculinaria" group-title="Culinária" tvg-name="Nome oficial do canal de culinária" tvg-logo="http://logo-do-canal-de-culinaria.jpg",Nome do canal de culinária na sua playlist
 http://transmissao-do-canal-de-culinaria.ts
-
-#EXTINF:-1 tvg-id="iddocanaldeculinaria" group-title="NOTICIA" tvg-name="Nome oficial do canal de culinária" tvg-logo="http://logo-do-canal-de-culinaria.jpg",Nome do canal de culinária na sua playlist
-http://transmissao-do-canal-de-culinaria.ts
-
-#EXTINF:-1 tvg-id="iddocanaldeculinaria" group-title="NOTICIA" tvg-name="Nome oficial do canal de culinária" tvg-logo="http://logo-do-canal-de-culinaria.jpg",Nome do canal de culinária na sua playlist
-http://transmissao-do-canal-de-culinaria.ts
-
-#EXTINF:-1 tvg-id="iddocanaldeculinaria" group-title="NOTICIA" tvg-name="Nome oficial do canal de culinária" tvg-logo="http://logo-do-canal-de-culinaria.jpg",Nome do canal de culinária na sua playlist
-http://transmissao-do-canal-de-culinaria.ts
-
-#EXTINF:-1 tvg-id="iddocanaldeculinaria" group-title="NOTICIA" tvg-name="Nome oficial do canal de culinária" tvg-logo="http://logo-do-canal-de-culinaria.jpg",Nome do canal de culinária na sua playlist
-http://transmissao-do-canal-de-culinaria.ts
-
-#EXTINF:-1 tvg-id="iddocanaldeculinaria" group-title="NOTICIA" tvg-name="Nome oficial do canal de culinária" tvg-logo="http://logo-do-canal-de-culinaria.jpg",Nome do canal de culinária na sua playlist
-http://transmissao-do-canal-de-culinaria.ts
-
-#EXTINF:-1 tvg-id="iddocanaldeculinaria" group-title="NOTICIA" tvg-name="Nome oficial do canal de culinária" tvg-logo="http://logo-do-canal-de-culinaria.jpg",Nome do canal de culinária na sua playlist
-http://transmissao-do-canal-de-culinaria.ts
-
-#EXTINF:-1 tvg-id="iddocanaldeculinaria" group-title="NOTICIA" tvg-name="Nome oficial do canal de culinária" tvg-logo="http://logo-do-canal-de-culinaria.jpg",Nome do canal de culinária na sua playlist
-http://transmissao-do-canal-de-culinaria.ts
-
-#EXTINF:-1 tvg-id="iddocanaldeculinaria" group-title="NOTICIA" tvg-name="Nome oficial do canal de culinária" tvg-logo="http://logo-do-canal-de-culinaria.jpg",Nome do canal de culinária na sua playlist
-http://transmissao-do-canal-de-culinaria.ts
-
-#EXTINF:-1 tvg-id="iddocanaldeculinaria" group-title="NOTICIA" tvg-name="Nome oficial do canal de culinária" tvg-logo="http://logo-do-canal-de-culinaria.jpg",Nome do canal de culinária na sua playlist
-http://transmissao-do-canal-de-culinaria.ts
-
-
-
-############## DIVERSÃO  #################  
-#EXTINF:-1 tvg-id="iddocanaldemusica" group-title="Música" tvg-name="Nome oficial do canal de música" tvg-logo="http://logo-do-canal-de-esportes.jpg",Nome do canal de música na playlist
-http://transmissao-do-canal-de-musica.m3u8
 
 
